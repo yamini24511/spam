@@ -1,1 +1,1 @@
-# spam
+Many email services today provide spam filters that are able to classify emails into spam and non-spam email with high accuracy. SVMs will be used to build a spam filter. A SVM classifier will be trained to classify whether a given email, x , is spam (y=1) or non-spam (y=0) .
